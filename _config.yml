@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Yaying Shi"
   avatar           : "profile.png"
-  bio              : #"I am a doctoral student who is interested in parallel computing, computer architecture and compiler."
-  location         : #"9201 University City Blvd, Charlotte, NC 28223"
+  bio              : "I am a doctoral student who is interested in parallel computing, computer architecture and compiler."
+  location         : "9201 University City Blvd, 
+  Charlotte, NC 28223"
   employer         : "UNCC"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : #"yshi10@uncc.edu"
+  email            : "yshi10@uncc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
