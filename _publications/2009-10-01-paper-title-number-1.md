@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Ompparser: A Standalone and Unified OpenMP Parser"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'ompparser is a standalone and unified OpenMP parser for both C/C++ and Fortran. It can be used as an independent tool as well as an integral component of an OpenMP compiler. It has syntax and semantics checking functionalitity for OpenMP constructs for validating and verifying usage of existing constructs. The formal grammar included in ompparser, developed with Flex and Bison tools, can help interpretation of the OpenMP standard. The implementation supports the full and latest OpenMP 5.0 and is released as open-source with BSD-license.'
+date: 2009-09-11
+venue: 'International Workshop on OpenMP'
+paperurl: 'https://link.springer.com/chapter/10.1007%2F978-3-030-28596-8_10'
+citation: 'Anjia Wang, Yaying Shi, Xinyao Yi, Yonghong Yan, Chunhua Liao and Bronis R. de Supinski. (2019). &quot;Ompparser: A Standalone and Unified OpenMP Parser.&quot; <i>IWOMP</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://link.springer.com/chapter/10.1007%2F978-3-030-28596-8_10)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Anjia Wang, Yaying Shi, Xinyao Yi, Yonghong Yan, Chunhua Liao and Bronis R. de Supinski. (2019). "Ompparser: A Standalone and Unified OpenMP Parser." <i>IWOMP</i>. 1(1).
