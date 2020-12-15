@@ -11,30 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in China, Telecommunication Engineering, Xinan Jiaotong University, 2010-2014
+* M.S. in West Virginia, Information System, Marshall University, 2015-2016
+* Ph.D in South Carolina, Computer Science, University of South Carolina, 2018-2019 (Transferred)
+* Ph.D in Nroth Carolina, Computer Science, University of North Carolina at Charlotte, 2019-2022 (expected)
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+======  
+* Fall 2018: Research Assistant
+  * University of South Carolina
+  * Duties included: Research
+  * Supervisor: Professor Yonghong Yan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2019 - Summer 2019: Teaching Assistant
+  * University of South Carolina
+  * Duties included: Help Teaching and grading
+  * Supervisor: Professor Yonghong Yan
+  
+* Fall 2019 - Spring 2020: Research Assistant
+  * University of North Carolina at Charlotte
+  * Duties included: Research
+  * Supervisor: Professor Yonghong Yan
+  
+* Summer 2020: Research Internship
+  * University of North Carolina at Charlotte
+  * Duties included: Research
+  * Supervisor: Dr. Chunhua Liao
+  
+* Fall 2020 - Now: Research Assistant
+  * Lawrence Livermore National Laboratory
+  * Duties included: Research
+  * Supervisor: Professor Yonghong Yan
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Compiler knowledge
+* Computer Language
+  * C/C++
+  * Python
+  * Swift
+  * Assembly Language
+  * Verilog and VHDL
+* Computer Software
+* Linux operation
 
 Publications
 ======
@@ -56,4 +75,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently Empty
