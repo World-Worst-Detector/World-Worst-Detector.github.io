@@ -10,11 +10,6 @@ location: "Columbia, South Carolina"
 
 I was work as a teaching assitant for course CSCE212: Introducation to Computer Architecture at Univeristy of South Carolina.
 
-Heading 1
+Work
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+My work responsiblity was help teaching, answer the question and grading for CSCE212.
