@@ -8,7 +8,11 @@ venue: 'International Workshop on Software Correctness for HPC Applications (Cor
 paperurl: 'https://conferences.computer.org/scwpub/pdfs/Correctness2020-7w4N9SxLsNAh5SqG4rrKiF/104400a020/104400a020.pdf'
 citation: 'Gaurav Verma, Yaying Shi, Chunhua Liao, Barbara Chapman, and Yonghong Yan. (2010). &quot;Enhancing DataRaceBench for Evaluating DataRace Detection Tools.&quot; <i>International Workshop on Software Correctness for HPC Applications (Correctness) SC20</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+DataRaceBench is a benchmark suite designed to systematically and quantitatively evaluate the effectiveness of data race detection tools. It includes a set of microbenchmarks with and without data races. Parallelism is represented by OpenMP directives. OpenMP is a popular parallel programming model for multi-threaded applications.
+
+Note that some microbenchmarks use OpenMP 4.5 and 5.0 features. You may need a recent OpenMP compiler to compile them.
+
+DataRaceBench also comes with an evaluation script (check-data-races.sh). The script can be used to evaluate the tools Helgrind, Archer, Thread Sanitizer, Intel Inspector, and Coderrect Scanner. In addition a parameterized test harness (scripts/test-harness.sh) is available which allows to provide a number of different parameters for the evaluation. The test harness is used by the evaluation script with some pre-defined values.
 
 [Download paper here](https://conferences.computer.org/scwpub/pdfs/Correctness2020-7w4N9SxLsNAh5SqG4rrKiF/104400a020/104400a020.pdf)
 
