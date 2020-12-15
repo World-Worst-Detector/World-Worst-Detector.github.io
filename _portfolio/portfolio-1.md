@@ -1,6 +1,6 @@
 ---
 title: "SC19"
-excerpt: "Me in SC19<br/><img src='/images/500x300.png'>"
+excerpt: "Me in SC19<br/><img src='/images/IMG_4971.jpeg'>"
 collection: portfolio
 ---
 
